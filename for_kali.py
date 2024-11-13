@@ -1,4 +1,4 @@
-import for_kali
+import telebot
 
 # Замените 'YOUR_BOT_TOKEN' на токен, который вы получили от BotFather
 TOKEN = '7768643857:AAHJRGmOvnFN_6mgKGi0eMoQmziGh6fU3dw'
